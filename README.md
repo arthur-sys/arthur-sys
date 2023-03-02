@@ -1,16 +1,15 @@
-### Hi there 👋
+### Ola sou o Arthur Santana  ✨
 
-<!--
-**arthur-sys/arthur-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-sys&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+### Tecnologias que eu uso 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style=display: iniline_block><br/>
+<img align= "center" alt ="HTML5"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img align= "center" alt ="CSS"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align= "center" alt ="Typescript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align= "center" alt ="PYTHON"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+
+</div><br/>
+
+Não é falta de café,nem tequila é meu código, que não compila. 
